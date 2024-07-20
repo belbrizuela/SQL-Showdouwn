@@ -1,0 +1,5 @@
+﻿"awsome thanks, that would be it",2010-12-31 23:59:08.123
+"IMO, The current accepted answer by meriton is useless. (Apologies to meriton).",2010-12-31 23:57:35.383
+@Petre - Which file are you referring to. The Html file that was loaded into the browser?,2010-12-31 23:53:19.020
+"Every time that the value of the textfield is regarded as having changed (i.e. the user clicks (or tabs to) from the textfield to a different field, having just altered the textfield's value), my Javascript is required to cause any textfield value validation error to be reported within the ""errors"" span. This is achieved such as by binding the textfield's ""onchange"" function to validateTextField. Tabbing from the textfield to a radio button and pressing spacebar to toggle radio state works fine, whereas ""directly"" clicking a radio button fails to leave the clicked button in the checked state.",2010-12-31 23:52:55.657
+and the .net code server side its still cant decrypt,2010-12-31 23:49:33.450
